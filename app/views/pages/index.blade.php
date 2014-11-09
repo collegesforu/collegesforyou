@@ -1,0 +1,1 @@
+C:\xampp\htdocs\collegesforyou\app/views/pages/index.blade.php
